@@ -9,7 +9,7 @@ This repository contains the Expenses Tracker app.
    a) The monthly expenses can be line plotted or presented in a bar chart by selecting the desired month and year.
    b) There is also a pie plot representation of the categorical spending.
 4) A currency converter tool powered by an exchange rates API providing forex rates for 161 currencies is also available.
-5) Users have access through the app to news headlines provided by a news API. They can choose the type of articles from the desired country of origin that they want. 
+5) Users have access through the app to news headlines provided by a news API. They can choose the type of articles from the desired country of origin that they want
    to be displayed in the corresponding window frame.
 6) Given the sensitive and private nature of the economic data password protection is provided.
 
