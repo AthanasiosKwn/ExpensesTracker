@@ -13,3 +13,6 @@ This repository contains the Expenses Tracker app.
    to be displayed in the corresponding window frame.
 6) Given the sensitive and private nature of the economic data password protection is provided.
 
+## NOTES:
+1) In the password hash.py file you can choose your desired password and then proceed to encrypting it, the encrypted password should   be passed in the 'your_hashed_password_from_the_password_hash_file' placeholder inside the 'credentials' dictionary variable located in line 23 of main.py. Also, make sure to insert your desired username inside the placeholder value of the "username" key of the same dictionary.  
+2) The APIS used are https://www.exchangerate-api.com/ and https://newsapi.org/. Create a free account and get the api keys.Then place the api keys in the corresponding variables: currency_api_key, news_api_key. In line 17 in main.py I import them from another file but that wont be needed for your case. It is a good practice in order to keep the api keys private when sharing your code.
