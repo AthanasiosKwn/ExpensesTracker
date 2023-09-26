@@ -16,3 +16,11 @@ This repository contains the Expenses Tracker app.
 ## NOTES:
 1) In the password hash.py file you can choose your desired password and then proceed to encrypting it, the encrypted password should   be passed in the 'your_hashed_password_from_the_password_hash_file' placeholder inside the 'credentials' dictionary variable located in line 23 of main.py. Also, make sure to insert your desired username inside the placeholder value of the "username" key of the same dictionary.  
 2) The APIS used are https://www.exchangerate-api.com/ and https://newsapi.org/. Create a free account and get the api keys.Then place the api keys in the corresponding variables: currency_api_key, news_api_key. In line 17 in main.py I import them from another file but that wont be needed for your case. It is a good practice in order to keep the api keys private when sharing your code.
+
+![expense_tracker_img1](https://github.com/AthanasiosKwn/ExpensesTracker/assets/143710534/a1c5fab7-71f2-4665-810f-2f915b7ef4ff)
+
+
+![expenses_tracker_img2](https://github.com/AthanasiosKwn/ExpensesTracker/assets/143710534/8982fd71-7a61-4d2c-9bcc-ff2fa7eed7a4)
+
+
+
